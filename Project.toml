@@ -1,4 +1,11 @@
 name = "TestPackage"
 uuid = "f96ef79c-9624-42ef-94ca-9c037a44f2be"
 authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
-version = "0.1.0"
+version = "0.2.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+            
+[compat]
+julia = "1.3"
+AbstractTrees="0.3"
