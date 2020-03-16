@@ -1,0 +1,4 @@
+name = "TestPackage"
+uuid = "f96ef79c-9624-42ef-94ca-9c037a44f2be"
+authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
+version = "0.1.0"
